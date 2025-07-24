@@ -72,6 +72,27 @@ An interactive Excel dashboard analyzing transactional data for **Maven Roasters
 
 ---
 
+## 🧠 Business Questions & Insights
+
+### Q1. How have sales trended over time?
+- 📈 Sales showed a general upward trend, peaking in the middle months and slightly dropping towards the end.
+
+### Q2. Which days of the week are busiest?
+- 📅 **Saturday and Sunday** had the highest number of transactions — likely due to weekend traffic and leisure time.
+
+### Q3. Which hours of the day are busiest?
+- ⏰ Peak hours are **8 AM to 11 AM**, aligning with morning coffee rush hours.
+
+### Q4. Which product type is sold the most?
+- ☕ **Espresso** was the top-selling product in both transactions and revenue.
+
+### Q5. What recommendations can be made?
+- Consider running promotions during off-peak hours.
+- Stock more Espresso-based products and train staff accordingly.
+- Focus more staffing during morning peak hours and weekends.
+
+---
+
 ## 🧠 Recommendations
 
 - Consider launching promotions during **low-traffic hours** (e.g., afternoons).
