@@ -98,5 +98,5 @@ BCA Student | Excel & Data Analysis Enthusiast
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)   
+![Dashboard Preview](https://github.com/SahilChandrani/Coffee-Shop-Sales/blob/main/Screenshot%202025-07-24%20202215.png)   
 
